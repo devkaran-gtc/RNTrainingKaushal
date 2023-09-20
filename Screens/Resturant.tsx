@@ -38,7 +38,6 @@ const Resturant = ({route, navigation}: Props) => {
 const styles = StyleSheet.create({
   container: {
     padding: 16,
-    marginTop: 24,
   },
   screenTitle: {
     fontSize: 24,
